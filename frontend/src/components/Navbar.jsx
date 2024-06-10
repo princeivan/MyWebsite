@@ -17,12 +17,10 @@ const Navbar = () => {
         <a href="https://github.com/princeivan?tab=repositories">
           <FaGithub />
         </a>
-        <a href="">
+        <a href="https://x.com/ivan_rono">
           <FaSquareTwitter />
         </a>
-        <a href="">
-          <FaInstagram />
-        </a>
+
         <a href="https://stackoverflow.com/users/25506229/ivan-rono">
           <FaStackOverflow />
         </a>
